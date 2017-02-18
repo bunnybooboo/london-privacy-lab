@@ -1,0 +1,14 @@
+#Setting up Yubikey 4 on Arch Linux
+
+Documentation seemed to be all over the place. Compiling this file to archive for myself, to potentially present at a future Privacy Lab event, and equally to assist others seeking the same information.
+
+1. Open a terminal and enter `sudo pacman -Sy`
+2. Enter your password
+3. `sudo pacman -S pcsc-tools yubikey-personalization-gui libu2f-host`
+4. `echo 'KERNEL=="hidraw*", SUBSYSTEM=="hidraw", MODE="0664", GROUP="users", ATTRS{idVendor}=="2581", ATTRS{idProduct}=="f1d0"' | sudo tee /etc/udev/rules.d/10-security-key.rules`
+5. reboot
+6. [Optional Step] In Firefox you will need to add [this extension](https://addons.mozilla.org/en-US/firefox/addon/u2f-support-add-on/). U2F is expected in a future version. as of 20170218 there is a [live bounty](https://www.bountysource.com/issues/10401143-implement-the-fido-alliance-u2f-javascript-api/) if you're a Javascript Developer who could help implement the FIDO U2F API
+7. Open the 'Yubikey Personalization Tool'
+8. Insert your Yubikey
+9. You should see in the top right text change from `No Yubikey inserted` to `Yubikey is inserted`
+10. typing the rest out right now.. 21:48 UTC
