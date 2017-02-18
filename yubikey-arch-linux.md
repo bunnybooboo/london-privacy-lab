@@ -8,14 +8,17 @@ Documentation seemed to be all over the place. Compiling this file to archive fo
 4. `echo 'KERNEL=="hidraw*", SUBSYSTEM=="hidraw", MODE="0664", GROUP="users", ATTRS{idVendor}=="2581", ATTRS{idProduct}=="f1d0"' | sudo tee /etc/udev/rules.d/10-security-key.rules`
 5. reboot
 6. [Optional Step] In Firefox you will need to add [this extension](https://addons.mozilla.org/en-US/firefox/addon/u2f-support-add-on/). U2F is expected in a future version. as of 20170218 there is a [live bounty](https://www.bountysource.com/issues/10401143-implement-the-fido-alliance-u2f-javascript-api/) if you're a Javascript Developer who could help implement the FIDO U2F API
-7. Open the 'Yubikey Personalization Tool'
+7. **Open the 'Yubikey Personalization Tool'**
 8. Insert your Yubikey
 9. You should see in the top right text change from `No Yubikey inserted` to `Yubikey is inserted`
-10. Your Yubikey has 2 slots for data. Mine came with just 1 installed
+10. Your Yubikey has 2 slots for data. Mine came with just 1 installed. I wanted to create my own, so..
+11. **To regenerate the OTP configuration**
 11. In the menu select `Yubico OTP` to edit the One Time Password preferences
 12. Select `Quick`
-13. Select `Configure Slot 1` [The OTP **must** be in slot 1]
+13. Select `Configure Slot 1` [The OTP *must* be in slot 1]
 14. Select `Regenerate` [to create new OTP parameters]
 15. Select `Write Configuration`
-16. You will be given the option to backup these changes to a CSV file [we'll lock this with a secure password later]
-17. typing the rest out right now.. 21:48 UTC
+16. You will be given the option to backup these changes to a CSV file [we'll lock this with a secure password later]. You do not have to do this, but having lost GPG key access in the past, I highly recommend you do
+17. **Now you'll [optionally] upload to the Yubico website**
+18. Select `Upload to Yubico`
+19. typing the rest out right now.. 22:24 UTC
