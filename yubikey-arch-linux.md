@@ -26,4 +26,13 @@ Documentation seemed to be all over the place. Compiling this file to archive fo
 22. Click inside the `OTP from the Yubikey` and manually press the button on your Yubikey
 23. Enter the Captcha
 24. Select `Upload AES key`
-25. typing the rest out right now.. 22:34 UTC
+25. `Success! Key upload successful`
+26. **Now [optionally] edit the static password**
+27. Back in 'Yubico Personalization Tool' select `Static Password` from the menu
+28. Select `Advanced` [not sure about you but I wanted this really strong]
+29. Select `Configuration Slot 2`
+30. Select `Yubikey unprotect - enable protection`
+31. Select `New Access Code` and checkbox `New Access Code/Use Serial Number` [you can double check by removing the key and see the number is the same with a few preceeding 0's]
+32. Select `Password Parameters` to your needs [I selected checkboxes for `upper an lower case`, `Alphanumeric`, and finally `Generate` for all 3 fields here]
+33. Select `Write Configuration` [this will also save to your earlier created CSV]
+34. typing the rest out right now.. 22:52 UTC
