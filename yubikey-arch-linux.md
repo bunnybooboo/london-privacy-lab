@@ -39,4 +39,3 @@ Documentation seemed to be all over the place. Compiling this file to archive fo
 To find out more about the 'Yubico Personalization Tool' [click here](https://www.yubico.com/support/knowledge-base/categories/articles/yubikey-personalization-tool-users-guide/) for the manual
 
 To test out your Yubikey [click here](https://demo.yubico.com/) to head over to the demo site
-34. typing the rest out right now.. 22:52 UTC
