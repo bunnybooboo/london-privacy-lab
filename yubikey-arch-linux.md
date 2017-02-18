@@ -40,4 +40,4 @@ To find out more about the 'Yubico Personalization Tool' [click here](https://ww
 
 To test out your Yubikey [click here](https://demo.yubico.com/) to head over to the demo site
 
-To zip your CSV file with a strong password `zip -P 'y0ur_cr@zy_pa$$w0rd' -r new_zip_name.zip Yubikey_backup.csv` [of course make this super strong. I used [KeePassX2](https://www.archlinux.org/packages/community/x86_64/keepassx2/) to generate one. Be sure to backup your KeePassX2 datatbase!]
+To zip your CSV file with a strong password `zip -P 'y0ur_cr@zy_pa$$w0rd' -r new_zip_name.zip Yubikey_backup.csv` [of course make this super strong. I used [KeePassX2](https://www.archlinux.org/packages/community/x86_64/keepassx2/) to generate one. Be sure to backup your KeePassX2 database!]
