@@ -35,4 +35,8 @@ Documentation seemed to be all over the place. Compiling this file to archive fo
 31. Select `New Access Code` and checkbox `New Access Code/Use Serial Number` [you can double check by removing the key and see the number is the same with a few preceeding 0's]
 32. Select `Password Parameters` to your needs [I selected checkboxes for `upper an lower case`, `Alphanumeric`, and finally `Generate` for all 3 fields here]
 33. Select `Write Configuration` [this will also save to your earlier created CSV]
+
+To find out more about the 'Yubico Personalization Tool' [click here](https://www.yubico.com/support/knowledge-base/categories/articles/yubikey-personalization-tool-users-guide/) for the manual
+
+To test out your Yubikey [click here](https://demo.yubico.com/) to head over to the demo site
 34. typing the rest out right now.. 22:52 UTC
