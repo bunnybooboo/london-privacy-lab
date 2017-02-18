@@ -11,4 +11,11 @@ Documentation seemed to be all over the place. Compiling this file to archive fo
 7. Open the 'Yubikey Personalization Tool'
 8. Insert your Yubikey
 9. You should see in the top right text change from `No Yubikey inserted` to `Yubikey is inserted`
-10. typing the rest out right now.. 21:48 UTC
+10. Your Yubikey has 2 slots for data. Mine came with just 1 installed
+11. In the menu select `Yubico OTP` to edit the One Time Password preferences
+12. Select `Quick`
+13. Select `Configure Slot 1` [The OTP **must** be in slot 1]
+14. Select `Regenerate` [to create new OTP parameters]
+15. Select `Write Configuration`
+16. You will be given the option to backup these changes to a CSV file [we'll lock this with a secure password later]
+17. typing the rest out right now.. 21:48 UTC
