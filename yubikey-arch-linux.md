@@ -20,5 +20,10 @@ Documentation seemed to be all over the place. Compiling this file to archive fo
 15. Select `Write Configuration`
 16. You will be given the option to backup these changes to a CSV file [we'll lock this with a secure password later]. You do not have to do this, but having lost GPG key access in the past, I highly recommend you do
 17. **Now you'll [optionally] upload to the Yubico website**
-18. Select `Upload to Yubico`
-19. typing the rest out right now.. 22:24 UTC
+18. Select `Upload to Yubico` [this will open the form in your default browser]
+20. In the website form enter your email address
+21. Back in the 'Yubico Personalization Tool' you'll see 4 fields needing to be copied over: `Serial Number` the Dec Number over in the far right, In parameters `Public Identity`, uncheck the `Hide Values` checkbox, copy over `Private Identity`, and finally `Secret Key`. *note that this website form does not like spaces*. Remove to avoid errors!
+22. Click inside the `OTP from the Yubikey` and manually press the button on your Yubikey
+23. Enter the Captcha
+24. Select `Upload AES key`
+25. typing the rest out right now.. 22:34 UTC
