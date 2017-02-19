@@ -18,7 +18,7 @@
  
 # How To Contribute
 
-If you have a venue available, are willing to sponsor an event, have content or a project you wish to share with our audience, are keen to help us deliver a technical workshop or demo please get in touch.
+If you have a venue available, are willing to sponsor an event, have content or a project you wish to share with our audience, are keen to help us deliver a technical workshop or demo please get in touch by either emailing davross at protonmail dot com, or creating an issue [right here](https://github.com/london-privacy-lab/main-repo/issues) in Github.
 
 # How To Interact
 
