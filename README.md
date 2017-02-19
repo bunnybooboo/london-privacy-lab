@@ -10,7 +10,7 @@
 * 20170400 - *draft event*
 * 20170500 - *draft event*
 
-# Previous Event
+# Previous Events
 
 * 20170128 - International Privacy Day event, Mozilla London https://air.mozilla.org/london-privacy-lab-international-privacy-day-2017-01-28/
 * 20161026 - IP Bill and DE Bill panel pre-Mozfest, Mozilla London
