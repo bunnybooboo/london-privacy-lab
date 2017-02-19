@@ -25,7 +25,7 @@ If you have a venue available, are willing to sponsor an event, have content or 
 * We've setup an IRC channel irc.mozilla.org #london-privacy-lab - This tends to be active during a live event.
 * Signup to our [email list](https://mail.mozilla.org/listinfo/privacy-events-london) 
 
-David's currently testing [Riot Chat](https://riot.im) (previously known as) which is a FOSS decentralised chat based on Matrix. It intergrates with Slack and IRC. If all goes well during this beta we may use this in future.
+David's currently testing [Riot Chat](https://riot.im) (previously known as) which is a FOSS decentralised E2E chat based on [Matrix](http://matrix.org/). It intergrates with Slack, IRC, and more coming. If all goes well during this beta we may use this in future.
 
 # Code of Conduct
 
