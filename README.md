@@ -32,12 +32,12 @@ These Privacy Lab events are dedicated to providing a harassment-free conference
 
 Harassment includes verbal comments that reinforce social structures of domination related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, deliberate intimidation, stalking, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention. Participants asked to stop any harassing behavior are expected to comply immediately.
 
-If a participant engages in harassing behavior, the conference organizers may take any action they deem appropriate, including warning the offender or expulsion from the event. If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of event staff immediately.
+If a participant engages in harassing behavior, the conference organizers may take any action they deem appropriate, including warning the offender or expulsion from the event. If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of event staff immediately. Your contact will be handled in the strictest of confidence.
 
 Event staff will be happy to help participants contact venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the event. We value your attendance.
 
 We expect participants to follow these rules at all conference venues and conference-related social events.
 
 In the event of a breach of these rules or if you have any questions, concerns, or requests please contact 
-* David Ross (sw1ayfe at gmail dot com - [GPG Key 0x18E9B7E11B29C1CC](https://gpg.mozilla.org/pks/lookup?op=vindex&search=0x18E9B7E11B29C1CC)) 
+* David Ross (sw1ayfe at gmail dot com) - My [GPG Key 0x18E9B7E11B29C1CC](https://gpg.mozilla.org/pks/lookup?op=vindex&search=0x18E9B7E11B29C1CC) 
 * or escalate to Stacy Martin (smartin at mozilla dot com) 
