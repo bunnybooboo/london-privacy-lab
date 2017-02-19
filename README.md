@@ -20,6 +20,8 @@
 
 If you have a venue available, are willing to sponsor an event, have content or a project you wish to share with our audience, are keen to help us deliver a technical workshop or demo please get in touch by either emailing davross at protonmail dot com, or creating an issue [right here](https://github.com/london-privacy-lab/main-repo/issues) in Github.
 
+We're open to forking and improving what we have here. Collaboration is key to any success.
+
 # How To Interact
 
 * We've setup an IRC channel irc.mozilla.org #london-privacy-lab - This tends to be active during a live event.
