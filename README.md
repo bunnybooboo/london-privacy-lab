@@ -38,4 +38,4 @@ Event staff will be happy to help participants contact venue security or local l
 
 We expect participants to follow these rules at all conference venues and conference-related social events.
 
-In the event of a breach of these rules or if you have any questions, concerns, or requests please contact David Ross (sw1ayfe at gmail dot com - [GPG Key](https://gpg.mozilla.org/pks/lookup?op=vindex&search=0x18E9B7E11B29C1CC)) or escalate Stacy Martin (smartin at mozilla dot com) 
+In the event of a breach of these rules or if you have any questions, concerns, or requests please contact David Ross (sw1ayfe at gmail dot com - [GPG Key 0x18E9B7E11B29C1CC](https://gpg.mozilla.org/pks/lookup?op=vindex&search=0x18E9B7E11B29C1CC)) or escalate Stacy Martin (smartin at mozilla dot com) 
