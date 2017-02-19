@@ -3,7 +3,7 @@
 [Wiki](https://wiki.mozilla.org/Privacy/Privacy_Lab/London)
 
 [Email List](https://mail.mozilla.org/listinfo/privacy-events-london)
-
+--------------------------
 20170400 - *draft event*
 
 20170300 - **pending event**
